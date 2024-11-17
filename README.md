@@ -3,8 +3,8 @@
 # Fungsi untuk menghitung nilai akhir
 def hitung_nilai_akhir(nilai_tugas, nilai_uts, nilai_uas): return (nilai_tugas * 0.3) + (nilai_uts * 0.35) + (nilai_uas * 0.35)
 
-# List untuk menyimpan data mahasiswa
-data_mahasiswa = []
+# List data_mahasiswa:
+List ini digunakan untuk menyimpan data mahasiswa yang telah diinput
 
 # Perulangan untuk menambah data
 while True: # Meminta input dari pengguna nim = input("Masukkan NIM mahasiswa: ") # Meminta NIM nama = input("Masukkan nama mahasiswa: ") nilai_tugas = float(input("Masukkan nilai tugas: ")) nilai_uts = float(input("Masukkan nilai UTS: ")) nilai_uas = float(input("Masukkan nilai UAS: "))
