@@ -43,7 +43,7 @@ Berikut adalah representasi flowchart dari program tersebut:
 
 ![image](https://github.com/user-attachments/assets/2f1a9143-7306-4d41-82e2-1e391a4cc603)
 
-Hasil Program
+# Hasil Program
 
 Setelah menjalankan program dan memasukkan data mahasiswa, hasil yang akan ditampilkan dalam tabel adalah sebagai berikut:
 
