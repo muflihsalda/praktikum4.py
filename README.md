@@ -10,9 +10,11 @@ kelas:TI 24 A5 <p>
 1. Fungsi hitung_nilai_akhir:
 
 Fungsi ini menerima tiga parameter (nilai_tugas, nilai_uts, dan nilai_uas) dan menghitung nilai akhir berdasarkan bobot yang telah ditentukan:
+
 Nilai Tugas: 30% <p>
 Nilai UTS: 35%  <p>
 Nilai UAS: 35%   <p>
+
 Nilai akhir dihitung dengan rumus: [ \text{nilai_akhir} = (\text{nilai_tugas} \times 0.3) + (\text{nilai_uts} \times 0.35) + (\text{nilai_uas} \times 0.35) ]
 
 2. List data_mahasiswa:
@@ -22,18 +24,38 @@ Nilai akhir dihitung dengan rumus: [ \text{nilai_akhir} = (\text{nilai_tugas} \t
 List ini digunakan untuk menyimpan data mahasiswa yang telah diinput.
 
 3. Perulangan while True:
+   
+![image](https://github.com/user-attachments/assets/f8eb7159-20df-4141-84de-acadca6789ce)
 
- ![image](https://github.com/user-attachments/assets/18e650b6-ddf6-4bd1-8cb7-f1123a8ae05b)
- 
 Program akan terus meminta input data mahasiswa hingga pengguna memilih untuk berhenti.
-Dalam setiap iterasi, pengguna diminta untuk memasukkan NIM, nama, dan nilai-nilai (tugas, UTS, UAS).
-Setelah itu, nilai akhir dihitung dan data mahasiswa disimpan dalam list data_mahasiswa.
-4. Menanyakan Tambah Data:
+Dalam setiap iterasi.
+
+4. meminta input dari pengguna
+
+![image](https://github.com/user-attachments/assets/8d3c57f3-b5fa-4116-8242-3b0d1a9dee2f)
+
+
+pengguna diminta untuk memasukkan NIM, nama, dan nilai-nilai (tugas, UTS, UAS).
+
+5. Menghitung nilai akhir:
+   
+![image](https://github.com/user-attachments/assets/cb5eaf5b-3136-4419-8b5d-c18e6fce34e5)
+
+Setelah itu, nilai akhir dihitung.
+
+6. menyimpan data ke dalam list
+
+![image](https://github.com/user-attachments/assets/dfaa0826-6460-4472-a959-c98a94d07bdb)
+
+disimpan dalam list data_mahasiswa.
+
+7. Menanyakan Tambah Data:
 
 ![image](https://github.com/user-attachments/assets/f7b590fd-081a-4df4-b689-b8083c4bed4b)
 
 Setelah data mahasiswa dimasukkan, program menanyakan apakah pengguna ingin menambah data lagi. Jika pengguna memasukkan 'y', program akan kembali ke loop . Jika 't', program akan keluar dari loop.
-5. Menampilkan Daftar Data Mahasiswa:
+
+8. Menampilkan Daftar Data Mahasiswa:
 
 ![image](https://github.com/user-attachments/assets/372a0ad7-a8fe-4aae-b1e8-36af31f15714)
 
