@@ -72,7 +72,8 @@ Berikut adalah representasi flowchart dari program tersebut:
 
 Setelah menjalankan program dan memasukkan data mahasiswa, hasil yang akan ditampilkan dalam tabel adalah sebagai berikut:
 
-![image](https://github.com/user-attachments/assets/6b214646-938c-47ea-a284-e3ffce9dfcfd)
+![image](https://github.com/user-attachments/assets/7edd7c3f-594b-440f-9242-02cf87f9c04f)
+
 
 
 
