@@ -57,7 +57,8 @@ Setelah data mahasiswa dimasukkan, program menanyakan apakah pengguna ingin mena
 
 8. Menampilkan Daftar Data Mahasiswa:
 
-![image](https://github.com/user-attachments/assets/372a0ad7-a8fe-4aae-b1e8-36af31f15714)
+![image](https://github.com/user-attachments/assets/a204f988-2607-462b-aabf-4b775912dbcf)
+
 
 Setelah keluar dari loop, program akan menampilkan semua data mahasiswa dalam format tabel yang terstruktur.
 
