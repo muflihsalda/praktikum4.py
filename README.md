@@ -1,7 +1,10 @@
 # praktikum4.py
-Nama :Muflih Salda Maulana
-NIM  :312410527
-kelas:TI 24 A5
+
+Nama :Muflih Salda Maulana <p>
+
+NIM  :312410527 <p>
+
+kelas:TI 24 A5 <p>
 
 # Fungsi untuk menghitung nilai akhir
 def hitung_nilai_akhir(nilai_tugas, nilai_uts, nilai_uas): return (nilai_tugas * 0.3) + (nilai_uts * 0.35) + (nilai_uas * 0.35)
