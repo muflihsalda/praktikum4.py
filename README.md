@@ -1,4 +1,5 @@
 # praktikum4.py
+
 # Fungsi untuk menghitung nilai akhir
 def hitung_nilai_akhir(nilai_tugas, nilai_uts, nilai_uas): return (nilai_tugas * 0.3) + (nilai_uts * 0.35) + (nilai_uas * 0.35)
 
@@ -11,6 +12,7 @@ while True: # Meminta input dari pengguna nim = input("Masukkan NIM mahasiswa: "
  ![image](https://github.com/user-attachments/assets/18e650b6-ddf6-4bd1-8cb7-f1123a8ae05b)
 
 # Menampilkan daftar data dalam format tabel
+
 ![image](https://github.com/user-attachments/assets/372a0ad7-a8fe-4aae-b1e8-36af31f15714)
 
 # Penjelasan Program
@@ -32,13 +34,14 @@ Dalam setiap iterasi, pengguna diminta untuk memasukkan NIM, nama, dan nilai-nil
 Setelah itu, nilai akhir dihitung dan data mahasiswa disimpan dalam list data_mahasiswa.
 Menanyakan Tambah Data:
 
-Setelah data mahasiswa dimasukkan, program menanyakan apakah pengguna ingin menambah data lagi. Jika pengguna memasukkan 'y', program akan kembali ke loop. Jika 't', program akan keluar dari loop.
+Setelah data mahasiswa dimasukkan, program menanyakan apakah pengguna ingin menambah data lagi. Jika pengguna memasukkan 'y', program akan kembali ke loop . Jika 't', program akan keluar dari loop.
 Menampilkan Daftar Data Mahasiswa:
 
 Setelah keluar dari loop, program akan menampilkan semua data mahasiswa dalam format tabel yang terstruktur.
 # Flowchart
 Berikut adalah representasi flowchart dari program tersebut:
-![image](https://github.com/user-attachments/assets/a1976a05-8b1c-49a9-8edc-4a1513f98434)
+
+![image](https://github.com/user-attachments/assets/2f1a9143-7306-4d41-82e2-1e391a4cc603)
 
 Hasil Program
 
