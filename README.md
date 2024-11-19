@@ -14,6 +14,8 @@ kelas:TI 24 A5 <p>
 # Penjelasan Program
 1. Fungsi hitung_nilai_akhir:
 
+![image](https://github.com/user-attachments/assets/45759595-f575-4cce-b0db-566563855bd3)
+
 Fungsi ini menerima tiga parameter (nilai_tugas, nilai_uts, dan nilai_uas) dan menghitung nilai akhir berdasarkan bobot yang telah ditentukan:
 
 Nilai Tugas: 30% <p>
