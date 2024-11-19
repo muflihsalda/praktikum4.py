@@ -6,6 +6,11 @@ NIM  :312410527 <p>
 
 kelas:TI 24 A5 <p>
 
+# program sederhana untuk menambahkan data kedalam sebuah list
+
+![image](https://github.com/user-attachments/assets/2fc4073d-c10c-471f-9645-46da813bdcaf)
+
+
 # Penjelasan Program
 1. Fungsi hitung_nilai_akhir:
 
